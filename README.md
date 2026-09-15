@@ -165,3 +165,25 @@ Hands-on cybersecurity experiments and investigations documenting my learning jo
 I'm continuously building and documenting projects around:
 
 `Network Security` • `SOC Operations` • `Cloud Security` • `AI Security`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Puja2059&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puja2059&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Puja2059&theme=tokyonight&hide_border=true" />
+
+</div>
