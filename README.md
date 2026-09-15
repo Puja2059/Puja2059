@@ -39,3 +39,46 @@ Computer Engineering
         ↓
 Cloud Security / AI Security
 ```
+---
+
+## 🛠️ Skills & Technologies
+
+### 🔐 Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network%20Security-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOC%20Fundamentals-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+</p>
+
+### 🌐 Networking
+
+<p>
+<img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OSI%20Model-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IPv4%2FIPv6-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
+### 💻 Programming & Development
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 🖥️ Operating Systems & Virtualization
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+</p>
