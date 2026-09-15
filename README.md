@@ -82,3 +82,38 @@ Cloud Security / AI Security
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
+---
+
+## 🚀 Currently Learning
+
+I'm continuously developing my cybersecurity skills through hands-on labs, projects, and practical experimentation.
+
+### 🔐 Cybersecurity
+
+* 🛡️ Network Security
+* 📊 SOC Operations & Security Monitoring
+* 🔎 Threat Detection & Log Analysis
+* 🧪 Vulnerability Assessment & Penetration Testing
+* 🖥️ Windows & Linux Security
+* 🌐 Network Traffic Analysis
+
+### 📡 Security Tools
+
+* 🦈 Wireshark
+* 🛡️ Wazuh
+* 🔍 Nmap
+* 📦 Cisco Packet Tracer
+* 🐧 Kali Linux
+
+### ☁️ Exploring Next
+
+* ☁️ Cloud Computing & Cloud Security
+* 🤖 AI Security
+* 🧠 AI-assisted Cybersecurity
+* 🔐 Security Automation
+
+### 🎯 Learning Philosophy
+
+> **Learn → Build → Investigate → Document → Improve**
+
+I believe cybersecurity skills become stronger through practical experimentation and documenting what I learn.
