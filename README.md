@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Puja Bhatt
+# Hi, I'm Puja Bhatt
 
-### 🔐 Cybersecurity Enthusiast | Computer Engineering Student
+###  Cybersecurity Enthusiast | Computer Engineering Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Network+Security+Learner;Aspiring+SOC+Analyst;Building+Practical+Security+Projects;Exploring+Cloud+%26+AI+Security" alt="Typing SVG" />
 
@@ -14,19 +14,19 @@
 
 ---
 
-## 🌐 About Me
+##  About Me
 
-🎓 Computer Engineering student with a growing focus on cybersecurity.
+ Computer Engineering student with a growing focus on cybersecurity.
 
-🔐 Interested in **Network Security, SOC Operations, Threat Detection, and Defensive Security**.
+ Interested in **Network Security, SOC Operations, Threat Detection, and Defensive Security**.
 
-🧪 Building practical cybersecurity skills through hands-on labs, security investigations, and projects.
+ Building practical cybersecurity skills through hands-on labs, security investigations, and projects.
 
-☁️ Exploring **Cloud Computing** and its connection to modern cybersecurity.
+ Exploring **Cloud Computing** and its connection to modern cybersecurity.
 
-🤖 Interested in the future of **AI Security** and intelligent cybersecurity solutions.
+ Interested in the future of **AI Security** and intelligent cybersecurity solutions.
 
-### 🎯 My Current Direction
+###  My Current Direction
 
 ```text
 Computer Engineering
@@ -41,9 +41,9 @@ Cloud Security / AI Security
 ```
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
-### 🔐 Cybersecurity
+###  Cybersecurity
 
 <p>
 <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge"/>
@@ -54,7 +54,7 @@ Cloud Security / AI Security
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
 </p>
 
-### 🌐 Networking
+###  Networking
 
 <p>
 <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge"/>
@@ -64,7 +64,7 @@ Cloud Security / AI Security
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-### 💻 Programming & Development
+### Programming & Development
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -74,7 +74,7 @@ Cloud Security / AI Security
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### 🖥️ Operating Systems & Virtualization
+### Operating Systems & Virtualization
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -84,54 +84,54 @@ Cloud Security / AI Security
 </p>
 ---
 
-## 🚀 Currently Learning
+##  Currently Learning
 
 I'm continuously developing my cybersecurity skills through hands-on labs, projects, and practical experimentation.
 
-### 🔐 Cybersecurity
+###  Cybersecurity
 
-* 🛡️ Network Security
-* 📊 SOC Operations & Security Monitoring
-* 🔎 Threat Detection & Log Analysis
-* 🧪 Vulnerability Assessment & Penetration Testing
-* 🖥️ Windows & Linux Security
-* 🌐 Network Traffic Analysis
+*  Network Security
+*  SOC Operations & Security Monitoring
+*  Threat Detection & Log Analysis
+*  Vulnerability Assessment & Penetration Testing
+*  Windows & Linux Security
+*  Network Traffic Analysis
 
-### 📡 Security Tools
+###  Security Tools
 
-* 🦈 Wireshark
-* 🛡️ Wazuh
-* 🔍 Nmap
-* 📦 Cisco Packet Tracer
-* 🐧 Kali Linux
+*  Wireshark
+*  Wazuh
+*  Nmap
+*  Cisco Packet Tracer
+*  Kali Linux
 
-### ☁️ Exploring Next
+###  Exploring Next
 
-* ☁️ Cloud Computing & Cloud Security
-* 🤖 AI Security
-* 🧠 AI-assisted Cybersecurity
-* 🔐 Security Automation
+*  Cloud Computing & Cloud Security
+*  AI Security
+*  AI-assisted Cybersecurity
+*  Security Automation
 
-### 🎯 Learning Philosophy
+###  Learning Philosophy
 
 > **Learn → Build → Investigate → Document → Improve**
 
 I believe cybersecurity skills become stronger through practical experimentation and documenting what I learn.
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🛡️ NitiShield-AI
+###  NitiShield-AI
 
 An AI-powered cybersecurity/legal information project focused on retrieving and presenting relevant information through a backend API.
 
 **Focus:**
 
-* 🤖 AI-assisted information retrieval
-* 🔐 Cybersecurity-related information
-* ⚙️ REST API development
-* 🗄️ Database integration
-* 🐳 Docker-based development environment
+*  AI-assisted information retrieval
+*  Cybersecurity-related information
+*  REST API development
+*  Database integration
+*  Docker-based development environment
 
 **Technologies:**
 
@@ -141,26 +141,26 @@ An AI-powered cybersecurity/legal information project focused on retrieving and 
 
 ---
 
-### 🧪 Cybersecurity Practical Labs
+###  Cybersecurity Practical Labs
 
 Hands-on cybersecurity experiments and investigations documenting my learning journey.
 
 **Areas explored:**
 
-* 🦈 Wireshark packet analysis
-* 🌐 DNS and network traffic analysis
-* 🪟 Windows Event Viewer & security logs
-* 🛡️ Wazuh SIEM/agent setup
-* 🐧 Linux security fundamentals
-* 🔍 Network reconnaissance with Nmap
-* 📡 Cisco Packet Tracer networking labs
-* 🖥️ Windows and Linux virtual machines
+*  Wireshark packet analysis
+*  DNS and network traffic analysis
+*  Windows Event Viewer & security logs
+*  Wazuh SIEM/agent setup
+*  Linux security fundamentals
+*  Network reconnaissance with Nmap
+*  Cisco Packet Tracer networking labs
+*  Windows and Linux virtual machines
 
-📁 Practical work and reports will be added to my GitHub repositories as I progress.
+ Practical work and reports will be added to my GitHub repositories as I progress.
 
 ---
 
-### 🚧 More Projects Coming
+###  More Projects Coming
 
 I'm continuously building and documenting projects around:
 
@@ -168,7 +168,7 @@ I'm continuously building and documenting projects around:
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -180,7 +180,7 @@ I'm continuously building and documenting projects around:
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
 
