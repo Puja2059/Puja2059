@@ -117,3 +117,51 @@ I'm continuously developing my cybersecurity skills through hands-on labs, proje
 > **Learn → Build → Investigate → Document → Improve**
 
 I believe cybersecurity skills become stronger through practical experimentation and documenting what I learn.
+---
+
+## 📂 Featured Projects
+
+### 🛡️ NitiShield-AI
+
+An AI-powered cybersecurity/legal information project focused on retrieving and presenting relevant information through a backend API.
+
+**Focus:**
+
+* 🤖 AI-assisted information retrieval
+* 🔐 Cybersecurity-related information
+* ⚙️ REST API development
+* 🗄️ Database integration
+* 🐳 Docker-based development environment
+
+**Technologies:**
+
+`Python` `Flask` `Docker` `Database` `AI`
+
+🔗 **Repository:** [View Project](https://github.com/Puja2059/NitiShield-AI)
+
+---
+
+### 🧪 Cybersecurity Practical Labs
+
+Hands-on cybersecurity experiments and investigations documenting my learning journey.
+
+**Areas explored:**
+
+* 🦈 Wireshark packet analysis
+* 🌐 DNS and network traffic analysis
+* 🪟 Windows Event Viewer & security logs
+* 🛡️ Wazuh SIEM/agent setup
+* 🐧 Linux security fundamentals
+* 🔍 Network reconnaissance with Nmap
+* 📡 Cisco Packet Tracer networking labs
+* 🖥️ Windows and Linux virtual machines
+
+📁 Practical work and reports will be added to my GitHub repositories as I progress.
+
+---
+
+### 🚧 More Projects Coming
+
+I'm continuously building and documenting projects around:
+
+`Network Security` • `SOC Operations` • `Cloud Security` • `AI Security`
